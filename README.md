@@ -1,4 +1,4 @@
-# MsC_IOT_Arduino_Nano_BLE_Sense
+# Smart Pet Wearable - Temp Sense
 Arduino_Nano_Sketch_and_Libraries
 
 Arduino Nano BLE Sense Code is from the Sketch Examples but with minor revision on the libraries. 
